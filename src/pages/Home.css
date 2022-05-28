@@ -1,0 +1,82 @@
+.container {
+    display: flex;
+    padding: 30px 70px 50px 70px;
+}
+
+.sec1 p .welcome-note {
+    /* position: absolute; */
+    height: 30px;
+    left: 8.33%;
+    right: 70.58%;
+    top: calc(50% - 30px/2 - 2527.5px);
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 30px;
+    color: #002348;
+}
+
+.sec1 h1 {
+    /* position: absolute; */
+    height: 78px;
+    left: 8.33%;
+    right: 52.88%;
+    top: calc(50% - 78px/2 - 2444.5px);
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 78px;
+    /* identical to box height, or 122% */
+    color: #003B79;
+}
+
+.sec1 p {
+    /* position: absolute; */
+    left: 8.33%;
+    right: 53.78%;
+    top: 7.85%;
+    bottom: 89.99%;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 39px;
+    /* or 195% */
+    color: #002348;
+}
+
+.sec1 .home-button {
+    width: 259px;
+    height: 60px;
+    background: #007FF4;
+    border: 0;
+    border-radius: 50px;
+    padding: 15px;
+    margin: 2px;
+    font-size: 14px;
+    text-align: center;
+    color: #fff;
+}
+
+.sec1 .home-button2 :hover {
+    border-color: #007DF2;
+}
+
+.sec1 .home-button2 {
+    width: 259px;
+    height: 60px;
+    background: #FFFFFF;
+    box-shadow: 0px 10px 50px 25px rgba(0, 59, 121, 0.0725798);
+    border: 0;
+    border-radius: 50px;
+    padding: 15px;
+    margin: 2px;
+    font-size: 14px;
+    text-align: center;
+    color: #007DF2;
+}
+
+.sec2 {
+    box-shadow: 1px 1px 50px #e4ebf3;
+    margin: 50px;
+    height: 472px;
+    width: 574px;
+    background-color: #ebeeff;
+    border-radius: 25px;
+}

@@ -1,0 +1,33 @@
+.logo {
+    width: 50%;
+    color: #0073FF;
+  }
+  
+  .logo span {
+    color: #ff9f6a;
+  }
+  .menu {
+    display: inline-block;
+    text-align: right;
+    margin-right: 60px;
+  }
+  
+  nav a {
+    display: inline-block;
+    font-weight: 400;
+    margin-left: 40px;
+    color: #0073FF;
+  }
+  
+  .contact-button {
+    width: 170px;
+    height: 50px;
+    background: #007FF4;
+    border: 0;
+    margin: -30px;
+    border-radius: 50px;
+    padding: 15px;
+    font-size: 14px;
+    text-align: center;
+    color: #fff;
+  }

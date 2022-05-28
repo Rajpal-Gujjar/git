@@ -1,0 +1,22 @@
+.logo {
+    width: 50%;
+    color: #0073FF;
+  }
+  
+  .logo span {
+    color: #ff9f6a;
+  }
+  .menu {
+    display: inline-block;
+    text-align: right;
+    /* margin-right: 60px; */
+  }
+  
+  nav a {
+    display: inline-block;
+    font-weight: 400;
+    color: #0073FF;
+  }
+  nav a:active{
+    font-weight: 700;
+  }

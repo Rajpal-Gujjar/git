@@ -1,0 +1,34 @@
+* {
+    text-decoration: none;
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+  }
+  
+  body {
+    background-color:  #F8FDFF;
+    max-width: 1441px;
+  }
+  
+  .container {
+    display: flex;
+    padding: 10px 70px 30px 70px;
+  }
+    
+  h2 {
+    color: #003B79;
+    font-weight: 600;
+    font-size: 54px;
+  }
+  
+  p {
+    color: #002348;
+    font-weight: 400;
+    font-size: 20px;
+  }
+  
+  h4 {
+    color: #002348;
+    font-weight: 700;
+    font-size: 24px;
+  }
+  

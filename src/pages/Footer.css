@@ -1,0 +1,17 @@
+.footimg img{
+    height: 15px;
+    width: 15px;
+    margin: 5px;
+    border: 1px solid rgb(56, 56, 56);
+    padding: 10px;
+    border-radius: 50%;
+    background-color: white;
+}
+.container1{
+  padding: 20px 50px 50px 50px;
+  margin: 0px;
+  background-color: #ECF4FF;
+}
+.container1 p{
+    font-size: small;
+}
